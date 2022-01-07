@@ -22,7 +22,7 @@ class UIDrawer {
 				"css/accordion.css"
 			),
 			"position" => "top",
-			"remoteBasePath" => "extensions/UIDrawer",
+			"remoteBasePath" => "/extensions/UIDrawer",
 			"localBasePath" => "extensions/UIDrawer"
 		);
 	}
